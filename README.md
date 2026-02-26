@@ -6,7 +6,7 @@ Listados de los repositorios a los proyectos de antiguos estudiantes
 
 | Autor | Título/Link Repositorio | Resumen | Fecha de Presentación |
 |--------|------------|---------|---------|
-| Andrea Caro | [Análisis de conflicto y violencia política](https://github.com/bombvvvs/Final_Project-It-Accademy)|  | 26/02/2026 |
+| Andrea Carozza | [Análisis de conflicto y violencia política](https://github.com/bombvvvs/Final_Project-It-Accademy)|  | 26/02/2026 |
 | Margot Arroyo | [¿Crece la economía sin crecer los residuos? Desacoplamiento, eficiencia de reciclaje y cumplimiento de la Directiva UE en el Área Metropolitana de Barcelona (2008–2023)](https://github.com/margotarroyo-dlc/Proyecto_IT)| Este proyecto analiza la relación entre crecimiento económico y generación de residuos sólidos en 31 municipios del Área Metropolitana de Barcelona (AMB) entre 2008 y 2023, evaluando si la región cumple con los objetivos de reciclaje de la Directiva europea 2018/851/UE. | 26/02/2026 |
 | Telesforo Sol | [Más kilómetros ≠ Mejor tiempo](https://github.com/TelesforoSol/Sprint13)| Este proyecto presenta un análisis longitudinal de tres ciclos de entrenamiento correspondientes a las medias maratones de Barcelona 2024, 2025 y 2026. | 26/02/2026 |
 | Lorena Gonzalez | [Análisis estructural estratégico de ingredientes en mocktails](https://github.com/L0relore/Sprint-13-Proyecto_Final) | Este estudio analiza la arquitectura estructural de recetas de mocktails con el objetivo de identificar patrones dominantes y oportunidades estratégicas de innovación basadas en datos | 19/02/2026 |
