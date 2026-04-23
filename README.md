@@ -6,6 +6,8 @@ Listados de los repositorios a los proyectos de antiguos estudiantes
 
 | Autor | Título/Link Repositorio | Resumen | Fecha de Presentación |
 |--------|------------|---------|---------|
+| Francesco Eirado Enes | [Tendencias Globales y Desafíos Energéticos]() |  | 23/04/2026 |
+| Minu Campoy | [Crecimiento, concentración y proyección en el tráfico aéreo de El Prat post-pandemia]() |  | 23/04/2026 |
 | Rossemary Castellanos | [Una mirada a las ofertas de Data Analyst en Barcelona]() |  | 16/04/2026 |
 | Ana Cristina Urdaneta Flores | [Análisis de Riesgo y Disrupciones en la Cadena de Suministros para la Toma de Desiciones Operativa](https://github.com/Nacri83/Sprints/tree/main/S13.01) | La creciente complejidad de la cadena de suministro exige herramientas capaces de identificar y priorizar riesgos de forma objetiva. Este estudio desarrolló un modelo reproducible en Python para evaluar riesgos logísticos en operaciones marítimas internacionales, integrando variables operativas, climáticas,   geopolíticas y de desempeño.  | 16/04/2026 |
 | Vanessa Mercedes Plaza Aguilar | [Bicing Barcelona — Análisis de disponibilidad, patrones de uso y predicción del estado de las estaciones](https://github.com/VanePla/Projectes-ITCib/tree/main/SPRINT_13_Projecte_Final) | Análisis del servicio de bicicletas compartidas Bicing de Barcelona a partir de 291 millones de mediciones recogidas entre enero de 2020 y septiembre de 2025 en las 548 estaciones de la red (Open Data Barcelona). | 16/04/2026 |
